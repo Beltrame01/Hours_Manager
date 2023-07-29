@@ -1,0 +1,2 @@
+626764c2-1f12-4767-9990-f90677c5bae8	29/07/2023	18:13:54	Log event emitted!
+4b153710-6a5b-4e2b-b53b-0f8bc994acb2	29/07/2023	18:14:08	Log event emitted!
