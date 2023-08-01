@@ -1,0 +1,10 @@
+3c244500-3e97-49e4-a3f0-9e731e5a7276	31/07/2023	22:42:05	/new-page.html	GET
+4df704df-2a51-4084-83ec-20df3b951745	31/07/2023	22:42:06	/img/Imposto-de-renda-1.png	GET
+a5debf95-ac79-493e-8e68-00846a015444	31/07/2023	22:42:06	/css/style.css	GET
+9b902201-f3e7-4685-93e1-c939048ff4b5	31/07/2023	22:42:06	/favicon.ico	GET
+e6dfe87e-f129-4e2a-943d-d66d5e95cd01	31/07/2023	22:49:02	/new-page.html	GET
+6ed8db7d-07f0-4892-971d-2d4cfa025f19	31/07/2023	22:50:07	/new-page.html	GET
+ebeb6438-647a-46db-a972-d82d561daf37	31/07/2023	22:50:07	/css/style.css	GET
+6173b7fb-3f05-485f-bb7e-aa281de4bc45	31/07/2023	22:50:07	/img/Imposto-de-renda-1.png	GET
+eabf70db-41a0-4ce5-9445-f572cda91080	31/07/2023	22:50:23	/	GET
+a1516608-ec72-43dd-9746-da82354a5dcb	31/07/2023	22:50:23	/css/style.css	GET
