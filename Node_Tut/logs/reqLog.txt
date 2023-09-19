@@ -1,10 +1,50 @@
-3c244500-3e97-49e4-a3f0-9e731e5a7276	31/07/2023	22:42:05	/new-page.html	GET
-4df704df-2a51-4084-83ec-20df3b951745	31/07/2023	22:42:06	/img/Imposto-de-renda-1.png	GET
-a5debf95-ac79-493e-8e68-00846a015444	31/07/2023	22:42:06	/css/style.css	GET
-9b902201-f3e7-4685-93e1-c939048ff4b5	31/07/2023	22:42:06	/favicon.ico	GET
-e6dfe87e-f129-4e2a-943d-d66d5e95cd01	31/07/2023	22:49:02	/new-page.html	GET
-6ed8db7d-07f0-4892-971d-2d4cfa025f19	31/07/2023	22:50:07	/new-page.html	GET
-ebeb6438-647a-46db-a972-d82d561daf37	31/07/2023	22:50:07	/css/style.css	GET
-6173b7fb-3f05-485f-bb7e-aa281de4bc45	31/07/2023	22:50:07	/img/Imposto-de-renda-1.png	GET
-eabf70db-41a0-4ce5-9445-f572cda91080	31/07/2023	22:50:23	/	GET
-a1516608-ec72-43dd-9746-da82354a5dcb	31/07/2023	22:50:23	/css/style.css	GET
+103fdbb5-a67d-4160-8987-0d1c99740367	12/09/2023	07:59:42	GET	undefined	/
+2cfc2db3-c5d5-4d26-b725-7d9aed88b51f	12/09/2023	07:59:42	GET	undefined	/css/style.css
+798c4672-3f2d-46b2-b755-0d8c619342fc	13/09/2023	21:32:37	GET	undefined	/
+4b766f9f-6d77-4807-951c-506d30a93215	13/09/2023	21:32:37	GET	undefined	/css/style.css
+7d779061-12b9-4e4e-9e12-983e391e449c	13/09/2023	21:32:44	GET	undefined	/new-page
+0618427e-d2f8-4b47-abc3-fdfb69139c52	13/09/2023	21:32:44	GET	undefined	/img/Imposto-de-renda-1.png
+e8ab43d7-7e93-4cdd-a184-317ae84a64e8	13/09/2023	21:32:44	GET	undefined	/css/style.css
+82c45a1e-48e7-4229-a530-acb50260799f	14/09/2023	18:51:18	GET	undefined	/new-page
+c9655c46-378d-4efa-b6d6-4c4fa3c6fcfc	14/09/2023	18:51:18	GET	undefined	/img/Imposto-de-renda-1.png
+441d1fb5-2d1f-4c98-9e93-23050018675a	14/09/2023	18:51:18	GET	undefined	/css/style.css
+46e3c708-af01-4a4d-ae9f-0f1eb21a6986	14/09/2023	18:51:18	GET	undefined	/favicon.ico
+4ca476c8-95ba-45e3-b638-96220ac3e566	14/09/2023	18:51:22	GET	undefined	/
+73224094-d3ad-4392-ab2c-ca70b5abed4e	14/09/2023	18:51:22	GET	undefined	/css/style.css
+4d9b291f-6e6d-483f-8bbf-38406af0b9c0	14/09/2023	19:07:06	GET	undefined	/teste
+0f738e01-5a01-4910-891b-177d11df5b5c	14/09/2023	19:07:06	GET	undefined	/css/style.css
+f332ed7a-0342-499f-8793-f4871be44723	14/09/2023	19:10:01	GET	undefined	/subdir/teste
+dae24e97-09e4-4e3a-9211-3e1d5d20e4b1	14/09/2023	19:10:01	GET	undefined	/subdir/css/style.css
+bb38eb77-4ba9-4612-8a6c-dc83ca834f1f	17/09/2023	19:42:48	GET	undefined	/
+233ad541-4623-4193-a9d5-8fdd9af41ed2	17/09/2023	19:42:48	GET	undefined	/css/style.css
+4b1b488a-0242-407b-a85e-5f3aff0a75f6	17/09/2023	19:44:25	OPTIONS	https://www.google.com.br	/
+bf38eebe-8f63-4efb-a9b5-bfce3dd02cd3	17/09/2023	19:44:25	GET	https://www.google.com.br	/
+44895417-c93e-4b65-ac51-8bd8078b110b	18/09/2023	21:04:15	GET	undefined	/
+102cc1b8-6a17-4e40-823c-aa2d43b5f452	18/09/2023	21:04:15	GET	undefined	/css/style.css
+ca4e8daf-08f6-432b-bb97-02971ccc4f50	18/09/2023	21:05:02	OPTIONS	https://www.google.com	/
+b9ee4d1e-17fd-436b-9b9c-075a12ec8b6b	18/09/2023	21:05:02	GET	https://www.google.com	/
+6730f800-c63e-43a3-ae12-1d9dc7256c40	18/09/2023	21:12:12	GET	https://www.google.com	/
+b197033f-7637-43b0-b21f-ded2a9d1e594	18/09/2023	21:12:12	OPTIONS	https://www.google.com	/
+08d499c9-51be-4f23-8a50-b3bb3a5f938b	18/09/2023	21:12:48	OPTIONS	https://www.google.com	/
+ff5b1a8f-e5d6-4315-89b2-8705d1b4f7e1	18/09/2023	21:12:48	GET	https://www.google.com	/
+25f2d897-f3c3-4fab-94cf-bb448b79bd53	18/09/2023	21:15:50	GET	https://www.google.com	/
+3129fc5e-1f5f-4ae8-a718-dea66cdd9f1a	18/09/2023	21:15:50	OPTIONS	https://www.google.com	/
+f92c4ff8-2aff-49ac-b72a-ab236b246132	18/09/2023	21:17:52	OPTIONS	https://www.google.com	/
+387d473f-8284-4f23-ab72-b682708d15a5	18/09/2023	21:17:52	GET	https://www.google.com	/
+72f67923-4a63-47aa-a7a3-e657316819f7	18/09/2023	21:18:12	GET	https://www.google.com	/
+3c475f1c-9e6c-43d4-a7a3-1b60bb92dea9	18/09/2023	21:18:12	OPTIONS	https://www.google.com	/
+7396e9ae-382f-4447-b348-a458b79f3c4b	18/09/2023	21:51:02	GET	undefined	/css/style.css
+c43cf21f-f95f-4386-93f4-95e5eb2ec038	18/09/2023	21:51:13	GET	undefined	/
+7b4abfc0-29b3-41fe-9a69-603da9c1759b	18/09/2023	21:53:06	GET	undefined	/
+9000b8d7-7879-485f-bcb3-95fa56ddee37	18/09/2023	21:53:06	GET	undefined	/css/style.css
+cd028bc6-bc2c-461b-8de6-413416195e1e	18/09/2023	22:01:27	GET	undefined	/
+80d0fe3f-9dd0-4c88-bd1f-2a6da23f92ce	18/09/2023	22:02:19	GET	undefined	/
+258bafd8-c9e0-44a0-8047-e50ad0d2dca7	18/09/2023	22:02:19	GET	undefined	/css/style.css
+d6889f7e-7397-4d52-8fc6-ad0e493a5adf	18/09/2023	22:04:05	GET	undefined	/teste
+b9826130-3014-4409-9458-def329103593	18/09/2023	22:04:05	GET	undefined	/css/style.css
+f101b53b-dbf2-4e9f-b0a1-97c9b130e1ec	18/09/2023	22:25:13	GET	undefined	/teste
+b6660319-96cb-4149-b9eb-9a327c6d4280	18/09/2023	22:25:14	GET	undefined	/css/style.css
+20f2e3b3-7365-4c7c-b2b3-ebbbbf514d1a	18/09/2023	22:27:42	GET	undefined	/teste.json
+0dd78c82-a356-4359-a935-e9c526cd8144	18/09/2023	22:28:13	GET	undefined	/teste.txt
+4f719aa3-e0b3-49ce-a189-64076545e7d4	18/09/2023	22:30:23	GET	undefined	/teste.json
+4a41b08a-2d1c-46c6-a417-b153024d4675	18/09/2023	22:30:23	GET	undefined	/css/style.css
