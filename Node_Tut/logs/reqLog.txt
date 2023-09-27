@@ -85,3 +85,13 @@ f6d3f39c-4ffc-4a07-be97-7d705449befa	19/09/2023	07:27:41	POST	undefined	/employe
 89e1681a-eef7-4dfb-b621-9b08634bf006	19/09/2023	07:32:38	DELETE	undefined	/employees
 c2643f5a-8380-4980-902b-219bb312ff2a	19/09/2023	07:33:48	GET	undefined	/employees/1
 be39b0d6-2437-4d80-8375-11bc3b3b88f1	19/09/2023	07:34:27	GET	undefined	/employees/2
+8bbea5fe-63dc-469d-8116-650462748769	19/09/2023	18:29:23	GET	undefined	/employees
+7fa225f6-b575-44ec-9d8d-56dbd8fc5ca1	19/09/2023	19:07:55	GET	undefined	/
+d99fa487-295d-44ea-bd99-5cb1f9074a6f	19/09/2023	19:07:55	GET	undefined	/css/style.css
+18e05dee-8053-4e06-a211-6c3ee75b3a7e	19/09/2023	19:08:01	GET	undefined	/css/style.css
+535af353-7f52-4bb6-8f02-a013a6616e5c	20/09/2023	22:25:08	POST	undefined	/employees
+81456a8d-7291-4381-8694-8701a75ddbbd	20/09/2023	22:30:27	POST	undefined	/employees
+5ce8e6b6-bba0-4d80-9212-18725aa20eac	20/09/2023	22:32:09	POST	undefined	/employees
+620e6d1a-2b8f-411c-8ec6-2b09109a1287	20/09/2023	22:32:46	POST	undefined	/employees
+655685bd-cf59-4970-a866-e6133f071c09	20/09/2023	22:34:00	POST	undefined	/employees
+43b2f14f-e9e2-40e6-b7f4-4020f8dd6841	20/09/2023	22:34:15	POST	undefined	/employees

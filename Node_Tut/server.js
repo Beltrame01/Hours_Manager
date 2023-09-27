@@ -1,10 +1,12 @@
 const express = require('express');
 const app = express();
-const cors = require('cors');
 const path = require('path');
+const cors = require('cors');
+const corsOptions = require('./config/corsOptions');
 const { logger } = require('./middleware/logEvents');
 const errorHandler = require('./middleware/errorHandler');
 const PORT = process.env.PORT || 3300;
+
 
 // custom middleware logger
 // esta chamada se refere ao javascript para criação do log de eventos
@@ -13,17 +15,6 @@ app.use(logger);
 // Cross Origin Resource Sharing
 // Utilize o CORS para restringir os sites que podem acessar o seu back-end
 // Crie uma White List de links aceitos e a configure dentro do corsOptions
-const whitelist = ['https://www.google.com','http://127.0.0.1:5500','http://localhost:3300'];
-const corsOptions = {
-    origin: (origin, callback) => {
-        if ((whitelist.indexOf(origin) !== -1) || (!origin)) {
-            callback(null, true);
-        } else {
-            callback(new Error('Not allowed by CORS'));
-        }
-    },
-    optionsSuccessStatus: 200
-};
 app.use(cors(corsOptions));
 
 
@@ -37,11 +28,9 @@ app.use(express.json());
 
 // serve static files
 app.use('/', express.static(path.join(__dirname, '/public')));
-app.use('/subdir', express.static(path.join(__dirname, '/public')));
 
 // routes
 app.use('/', require('./routes/root'));
-app.use('/subdir', require('./routes/subdir'));
 app.use('/employees', require('./routes/api/employees'));
 
 

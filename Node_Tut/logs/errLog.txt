@@ -1,2 +1,5 @@
 9d5849fa-c5f4-4e9d-9b5e-df7252afa078	31/07/2023	22:49:02	TypeError: fsPromises.readFil is not a function
 cfe49cbe-2a68-4ad2-950d-351f590e2046	18/09/2023	22:01:27	Error: Not allowed by CORS
+068cc168-1716-47e3-8e33-3cccf4d92d8e	20/09/2023	22:25:08	ReferenceError: employees is not defined
+48f9499c-ccef-4d2d-bac2-9db5ca876398	20/09/2023	22:32:09	ReferenceError: employees is not defined
+76523208-f887-48c7-abff-d0f6ba8b82a8	20/09/2023	22:32:46	ReferenceError: employees is not defined
