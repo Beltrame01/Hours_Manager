@@ -29,6 +29,7 @@ app.use(express.json());
 // serve static files
 app.use('/', express.static(path.join(__dirname, '/public')));
 
+
 // routes
 app.use('/', require('./routes/root'));
 app.use('/employees', require('./routes/api/employees'));
