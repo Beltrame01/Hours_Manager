@@ -126,3 +126,8 @@ c661950b-b107-4003-9e69-18beb458f107	01/10/2023	22:30:04	GET	undefined	/employee
 70eb6881-13a3-48c1-b9fc-9004cb5acb0c	01/10/2023	22:30:30	GET	undefined	/employees/3
 35de6b69-8943-480c-b0bb-ce27a994bd3e	01/10/2023	22:30:36	GET	undefined	/employees/1
 83a7f86d-25e3-41cd-a016-c98f2b6e6598	01/10/2023	22:31:19	GET	undefined	/employees/1
+48471bb1-99dc-43bb-a3c3-3b9d974d3490	02/10/2023	20:18:42	GET	undefined	/
+4c4a6ba6-02db-45f6-84b3-6df4a50403f0	02/10/2023	20:18:42	GET	undefined	/css/style.css
+c4459a49-9328-4f14-8932-3d3e0a740377	02/10/2023	20:18:46	GET	undefined	/login/
+cefc3159-a1aa-4416-acf5-4f11708357af	02/10/2023	20:18:46	GET	undefined	/login/
+78980863-8b25-4373-b6b4-55c89da35cf7	02/10/2023	20:18:46	GET	undefined	/login/css/style.css/
